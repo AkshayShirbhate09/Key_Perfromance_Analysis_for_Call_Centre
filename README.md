@@ -21,13 +21,9 @@ Call centers play a crucial role in customer service and support for organizatio
 
 2. **Data Preprocessing:** Cleaned and standardized the data to ensure accuracy and consistency. Utilized tools like Power Query Editor to handle missing values, remove duplicates, and format data appropriately.
 
-3. **Exploratory Data Analysis (EDA):** Conducted exploratory analysis to understand the distribution and patterns of KPIs. Utilized visualizations such as histograms, scatter plots, and box plots to identify trends and outliers.
+3. **Visualizations:** Created visually appealing charts and graphs using emojis for added context. Utilized visuals such as bar charts, line graphs, and pie charts to present findings in an easy-to-understand format.
 
-4. **KPI Analysis:** Analyzed various KPIs including average handle time (AHT), first call resolution (FCR) rate, service level agreement (SLA) compliance, and customer satisfaction scores. Evaluated these metrics to assess call center performance and effectiveness.
-
-5. **Visualizations:** Created visually appealing charts and graphs using emojis for added context. Utilized visuals such as bar charts, line graphs, and pie charts to present findings in an easy-to-understand format.
-
-6. **Findings and Recommendations:** Summarized key findings and insights derived from the analysis. Provided actionable recommendations for improving call center performance based on the identified areas of improvement.
+4. **Findings and Recommendations:** Summarized key findings and insights derived from the analysis. Provided actionable recommendations for improving call center performance based on the identified areas of improvement.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔍 **Findings:**
