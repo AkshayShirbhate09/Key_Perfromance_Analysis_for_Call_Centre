@@ -32,10 +32,26 @@ Call centers play a crucial role in customer service and support for organizatio
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔍 **Findings:**
 
-- Average handle time (AHT) is within acceptable limits, indicating efficient call handling processes.
-- First call resolution (FCR) rate is below the desired target, suggesting a need for improved resolution strategies.
-- Service level agreement (SLA) compliance is inconsistent across different time periods, indicating potential resource allocation issues.
-- Customer satisfaction scores vary widely, highlighting areas where customer experience can be enhanced.
+  1. What is the total number of calls received by the call center?
+  2. How does the total number of calls vary over different time periods (e.g., daily, weekly, monthly)?
+  3. What percentage of calls were answered by agents?
+  4. Is there a trend in the percentage of answered calls over time?
+  5. How many calls were abandoned by customers before reaching an agent?
+  6. Is there a correlation between wait times and abandoned calls?
+  7. What is the average speed at which calls are answered by agents?
+  8. Are there any agents who consistently answer calls faster or slower than the average?
+  9. What is the average customer satisfaction rating based on resolved queries?
+  10. How does the customer satisfaction rating vary across different agents or topics?
+  11. How does the performance of each agent compare in terms of metrics like call resolution rate and average talk duration?
+  12. Are there any agents who consistently outperform or underperform their peers?
+  13. How does the speed of answer vary between different agents or teams?
+  14. Is there a correlation between the speed of answer and customer satisfaction rating?
+  15. Which topics have the highest count of resolved queries?
+  16. Are there any trends or patterns in the distribution of resolved queries across topics?
+  17. What is the average talk duration for each agent?
+  18. Are there any agents with significantly longer or shorter talk durations compared to their peers?
+  19. How many calls were answered and unanswered by each agent?
+  20. Is there a correlation between the number of unanswered calls and other performance metrics?
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📊 **Visuals Used:**
