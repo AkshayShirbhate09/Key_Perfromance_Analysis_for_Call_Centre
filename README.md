@@ -1,5 +1,7 @@
 # Key_Perfromance_Analysis_for_Call_Centre
 
+![contact-center-vs-a-call-center-02-02-1024x410](https://github.com/AkshayShirbhate09/Supply_Chain_Analysis/assets/161019134/6afafe45-16f6-4ae3-9f6c-362b7a0232b9)
+
 🌟 **Introduction:**
 
 Welcome to the Key Performance Analysis for Call Centers project developed as part of the Virtual Internship Program Challenge for PwC's Forage Program. In this project, we analyze key performance indicators (KPIs) to assess the effectiveness and efficiency of call center operations.
